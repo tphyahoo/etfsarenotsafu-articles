@@ -2,7 +2,9 @@
 
 How the Bitcoin behind America's spot ETFs is *actually* held — and where the reassuring language ("bank-grade," "multi-party," "proof of reserves," "qualified custodian") quietly stops meaning what you'd assume.
 
-A five-part investigative series. **Work in progress — drafts shared for feedback; some footnotes are still being primary-verified.**
+A five-part investigative series. **Work in progress — drafts shared for feedback; some footnotes are still being primary-verified.
+
+Do not share yet unless you run by me first. **
 
 ## The series
 
