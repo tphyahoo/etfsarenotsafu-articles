@@ -4,7 +4,7 @@ How the Bitcoin behind America's spot ETFs is *actually* held — and where the 
 
 A five-part investigative series. **Work in progress — drafts shared for feedback; some footnotes are still being primary-verified.
 
-Do not share yet unless you run by me first. **
+Do not share yet unless you run by me first. 
 
 ## The series
 
