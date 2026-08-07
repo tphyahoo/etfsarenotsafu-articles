@@ -26,7 +26,7 @@ The takeaway is simple. Institutions holding the public's Bitcoin should demand 
 2. [Cross-Contamination: When Is Bitcoin Just Another Shitcoin?](part2-cross-contamination.md)
 3. [When Is a Party Not a Party?](part3-party-not-a-party.md)
 4. [When Is a Proof of Reserves Not a Proof?](part4-proof-of-reserves.md)
-5. [Blocks of Concrete: A Custody Model You Don't Need a Cryptography Degree to Audit](blocks-of-concrete.md) — *in progress*
+5. *(forthcoming)*
 
 ---
 
