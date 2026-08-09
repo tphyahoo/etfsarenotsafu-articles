@@ -44,7 +44,7 @@ None of this means the Bitcoin isn't there. But "a company this size has every i
 
 Today's investors, pinning their hopes on the biggest Bitcoin product on Earth, get an IBIT, with less independently verifiable proof of reserves than plenty of exchanges the ETF world sneers at. Kraken, to name one, has for years published a Merkle-tree proof of reserves that lets each customer verify their own balance is in the count.[^kraken]
 
-It isn't because nobody thought to ask. During the 2023 registration reviews, the SEC's own staff asked issuers, in writing, to "disclose whether any entity will be responsible for verifying the existence of the bitcoins." [^9]  
+It isn't because nobody thought to ask. During the 2023 registration reviews, the SEC's own staff asked issuers, in writing, to "disclose whether any entity will be responsible for verifying the existence of the bitcoins," and made VanEck try again when its first answer fell short.[^9]
 
 Every ETF issuer gave the same answer to "who can verify?" Not an independent auditor. Not a proof of reserves anyone could check. No, whoever does the checking, they check on the custodian's word — the very party holding the coins. Fidelity's prospectus says it outright: the sponsor can "verify the existence of the Trust's bitcoin through information provided from the Custodian."[^9b] It's pretty much the same story with all the bitcoin ETF prospectuses. 
 
