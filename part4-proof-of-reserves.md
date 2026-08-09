@@ -8,7 +8,7 @@ A Bitcoin ETF rests on one thing you cannot check for yourself. That the Bitcoin
 
 Then the industry walked away from it. The Winklevoss application was rejected twice, in 2017 and 2018, but never over custody. Both rejections were about spot-market manipulation, the same fight that dragged on until Grayscale's 2023 court win forced the SEC's hand. Nobody ever ruled that monthly independent proof-of-control audits were unnecessary or too burdensome. By the time products actually launched in January 2024, that standard had simply vanished. Not removed, not overruled, just quietly dropped from whatever templates the eventual issuers built from. Neither the exchanges filing the paperwork nor the SEC staff reviewing it asked where it went.
 
-So here is the state of the art in 2026, at the top of a market holding hundreds of thousands of Bitcoin. There is no real proof of reserves. What's offered instead comes in two flavors: a fake one from Bitwise (BITB), and none at all from BlackRock (IBIT).
+So here is the state of the art in 2026, at the top of a market holding hundreds of thousands of Bitcoin -- and we're talking most of all about IBIT here, with over 700,000 parked at Coinbase, which is over $40 billion and also over 3% of all the bitcoin there will ever be at time of writing; and that's *just* IBIT, since most of the other ETFs are also custodied at Coinbase. There is no real proof of reserves. What's offered instead comes in two flavors: a fake one from Bitwise (BITB), and none at all from BlackRock (IBIT) or the others.
 
 ## The Fake One: BITB
 
@@ -18,23 +18,25 @@ In July 2025, Bitwise announced "Proof of Reserves" for its BITB fund, a daily r
 
 ## None at All: IBIT
 
-That's the fake version. The flagship doesn't even bother. An IBIT skips the proof rather than faking it.
+That's the fake version. IBIT, the largest spot Bitcoin ETF there is, just skips it. There is no proof-of-reserves mechanism anywhere in the prospectus, fact sheet, or SEC filings. 
 
-With roughly $46 billion in AUM at the time of writing, BlackRock's IBIT is the largest spot Bitcoin ETF in existence. There is no proof-of-reserves mechanism anywhere in its prospectus, fact sheet, or SEC filings. 
+If you are a shareholder, what IBIT contractually owes you comes down to two things.[^6] An electronic account statement. And Coinbase Custody's promise to hold the Bitcoin as your property, not its own, with enough on hand to cover your claim. Basically, an IOU. 
 
-What you're actually owed comes down to two things.[^6] An electronic account statement. And Coinbase's promise to hold the Bitcoin as your property, not its own, and keep enough on hand to cover your claim. A promise, not a proof. Coinbase reports a balance, you reconcile your own books against it, and they look right until the day a withdrawal fails. Then they all do. Nothing in the contract lets you verify any of it against the blockchain.
+"But BlackRock is checking the reserves!" someone will object. Well, sort of. 
 
-The tool that would tell us whether the bitcoins are actually there is neither exotic nor risky. It's the Maxwell–Todd proof of reserves.[^xpubvspor] Published for anyone to check, it proves the reserve exists and covers what's owed, with no trust required in Coinbase or its auditor. This market already knows how to publish one. Coinbase just doesn't, and providing it would cost the custodian nothing but its opacity. 
+Bloomberg's Eric Balchunas reported that BlackRock runs its own node and reconciles balances against Coinbase's addresses nightly. It's shown to institutional clients on request but never published, for "spam" reasons.[^7] 
 
+Spam is a thin excuse, first of all. Unsolicited dust doesn't move a coin or cloud a balance, and a dusted address stays perfectly auditable. Bitwise, recall, published its own reserve addresses openly until it swapped them for a private attestation. 
 
-The obvious objection is that someone is checking. And someone is: Bloomberg's Eric Balchunas has said BlackRock runs its own node and reconciles balances against Coinbase's addresses nightly, shown to institutional clients on request but never published, for "spam" reasons.[^7] But "spam" explains a preference, not an impossibility. Unsolicited dust doesn't move a coin or cloud a balance, and a dusted address stays perfectly auditable. Bitwise, recall, published its own reserve addresses openly until it swapped them for a private attestation. Take the practice at face value anyway, and it still doesn't rebut the point. Which is that nothing in the filed contract obligates that check. It's a practice, which means Coinbase is sharing addresses through some undisclosed channel that no contract, regulation, or law requires. A courtesy, not a right. And a courtesy is one quiet, private policy email away from not existing. If Coinbase stopped tomorrow ("policy changed, for your security, trust us"), no canary sings to IBIT's shareholders, family offices, and retirees. There is no clause requiring anyone to tell them a practice stopped, because there was never a clause requiring it to exist.
-%% I think we should keep the substance of the above paragraph because this is why a lot of people think we have some "moral" proof of reserves or something handwavy like that. and maybe we even do. But yeah, kinda BS. anyway we should keep it but shorten it with human voice I think. %%
+But even taking Balchunas's reporting at face value, the issue is that nothing obligates that check. It's a courtesy, not a right. And a courtesy is one quiet, private policy email away from not existing. If Coinbase stopped tomorrow ("policy changed, for your security, trust us"), no canary sings to IBIT's shareholders, family offices, and retirees. There is no clause requiring anyone to tell them a practice stopped, because there was never a clause requiring it to exist.
 
-This isn't hypothetical paranoia. It's the shape of Part 1's story. A sophisticated counterparty with informal visibility into a custodian's real condition doesn't ring the alarm for everyone else. It protects itself first. Swan Bitcoin withdrew roughly $970 million from Prime Trust in the months before it collapsed, on alleged insider knowledge, and is now facing a clawback suit for it.[^8] If BlackRock's private check ever showed something wrong, there is no reason to assume the public would hear about it before BlackRock's own money was safely out the door.
+This isn't hypothetical paranoia. It's the shape of Part 1's story. A sophisticated counterparty with informal visibility into a custodian's real condition doesn't ring the alarm for everyone else. It protects itself first. Swan Bitcoin withdrew $970 million from Prime Trust in the months before it collapsed, on alleged insider knowledge, and is now facing a clawback suit for it.[^8] If BlackRock's private check ever showed something wrong, there is no reason to assume the public would hear about it before BlackRock's own money was safely out the door.
+
+The tool that would tell us whether the bitcoins actually exist, of course, is the Maxwell–Todd proof of reserves.[^xpubvspor] Coinbase knows how to do it. It just prefers opacity; and with no ETFs or regulators complaining, why not. 
 
 ## The regulator asked, and accepted a shrug
 
-So. Two ways to fail one test. A BITB proves the wrong thing, an IBIT proves nothing. 
+So. Two ways to fail one test. A BITB proves the wrong thing. An IBIT proves nothing. 
 
 None of this means the Bitcoin isn't there. But "a company this size has every incentive to get it right" is not a verification mechanism, it's a hope. Customers of Prime Trust had that hope too. 
 
